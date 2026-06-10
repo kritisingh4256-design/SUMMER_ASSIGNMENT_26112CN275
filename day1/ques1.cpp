@@ -16,5 +16,7 @@ cout<<"sum of first "<<n<<"  natural numbers ="<<sum;
 
 
 
+
+
     return 0;
 }

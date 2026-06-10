@@ -4,6 +4,7 @@ int main(){
 int n, original,reverse=0, digit;
 cout<<"enter the number:";
 cin>>n;
+original=n;
 while(n>0){
     digit=n%10;
     reverse=reverse*10+digit;
